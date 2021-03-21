@@ -8,7 +8,7 @@
 <a href="https://www.buymeacoffee.com/Vedza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vedza/NitroSniperGo/tree/heroku)
-<a href="https://repl.it/github/Vedza/NitroSniperGo" target="_blank"><img src="https://repl.it/badge/github/Vedza/NitroSniperGo" alt="Deploy on Repl.it" height="32" width="160"></a>
+<a href="https://repl.it/github/Sakujes/NitroSniperGo/tree/replit" target="_blank"><img src="https://repl.it/badge/github/Sakujes/NitroSniperGo/tree/replit" alt="Deploy on Repl.it" height="32" width="160"></a>
 
 Discord Nitro sniper and Giveaway joiner in Go.
 
@@ -106,7 +106,7 @@ You have multiple choices to run the sniper :
   ./NitroSniperGo
   ```
   
- - [Deploy on Repl.it](https://repl.it/github/Vedza/NitroSniperGo)
+ - [Deploy on Repl.it](https://repl.it/github/Sakujes/NitroSniperGo/tree/replit)
 
  
 #### How to obtain your token
