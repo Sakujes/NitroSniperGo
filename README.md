@@ -1,14 +1,14 @@
 > # NitroSniperGo
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/vedza/NitroSniperGo/total?style=flat)](https://github.com/vedza/NitroSniperGo/releases)
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Vedza/NitroSniperGo&title=Views)](https://github.com/Vedza/NitroSniperGo)  
-[![GitHub release](https://img.shields.io/github/release/Vedzaa/NitroSniperGo.svg?style=flat)](https://github.com/Vedzaa/NitroSniperGo/releases)
-[![Build Status](https://travis-ci.com/Vedza/NitroSniperGo.svg?branch=master)](https://travis-ci.com/Vedza/NitroSniperGo)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Sakujes/NitroSniperGo/total?style=flat)](https://github.com/Sakujes/NitroSniperGo/releases)
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sakujes/NitroSniperGo&title=Views)](https://github.com/Sakujes/NitroSniperGo)  
+[![GitHub release](https://img.shields.io/github/release/Sakujes/NitroSniperGo.svg?style=flat)](https://github.com/Sakujes/NitroSniperGo/releases)
+[![Build Status](https://travis-ci.com/Sakujes/NitroSniperGo.svg?branch=master)](https://travis-ci.com/Sakujes/NitroSniperGo)
 
-<a href="https://www.buymeacoffee.com/Vedza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a>
+<!-- <a href="https://www.buymeacoffee.com/Vedza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="32" width="140"></a> -->
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sakujes/NitroSniperGo/tree/heroku)
-<a href="https://repl.it/github/Sakujes/NitroSniperGo" target="_blank"><img src="https://repl.it/badge/github/Sakujes/NitroSniperGo" alt="Deploy on Repl.it" height="32" width="160"></a>
+<a href="https://repl.it/github/Sakujes/NitroSniperGo/tree/replit" target="_blank"><img src="https://repl.it/badge/github/Sakujes/NitroSniperGo" alt="Deploy on Repl.it" height="32" width="160"></a>
 
 Discord Nitro sniper and Giveaway joiner in Go.
 
@@ -53,7 +53,7 @@ Edit `settings.json`
     "max": 2,   // Max Nitro before cooldown
     "cooldown": 24,  // in Hour
     "main_sniper": true // Enable or not Nitro sniper on main account (It will only claim code from alts)
-    "delay": true // Print or not redeem delay (useful to compare heroku/vps and your pc but hard to be compare with other snipers for various reasons)
+    "delay": true // Print or not redeem delay (useful to compare heroku/vps and your pc but hard to compare with other snipers for various reasons)
 },
   "giveaway": {
     "enable": true, // Enable or not giveaway joiner
@@ -106,7 +106,7 @@ You have multiple choices to run the sniper :
   ./NitroSniperGo
   ```
   
- - [Deploy on Repl.it](https://repl.it/github/Sakujes/NitroSniperGo)
+ - [Deploy on Repl.it](https://repl.it/github/Sakujes/NitroSniperGo/tree/replit)
 
  
 #### How to obtain your token
